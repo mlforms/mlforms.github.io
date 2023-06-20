@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Jun 2023 17:15:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[VT vs Nonsustained VT on EKG]]></title>
+            <guid>a32d3392dea9485aae2ac93eb249a50c</guid>
+            <pubDate>Sun, 18 Jun 2023 20:00:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>Ventricular Tachycardia (VT)</strong></p>
+<ul>
+<li>Sustained VT
+<ul>
+<li>Rate &gt; 120-130</li>
+<li>Lasts at least 30 seconds or produces hemodynamic instability</li>
+<li>Treatment with antiarrhythmics meds or cardioversion</li>
+</ul>
+</li>
+<li>Non-sustained VT
+<ul>
+<li>Rate &gt; 120-130</li>
+<li>Lasts &lt; 30 seconds, no associated hemodynamic instability</li>
+<li>Key to treatment is to look for and treat the underlying cause
+<ul>
+<li>Cardiac ischemic, hypoxia, electrolyte abnormalities, PE, etc.</li>
+<li>Cardiac ischemia may induce sustained or non-sustained monomorphic VT in the presence of a myocardial scar</li>
+<li>Empiric antiarrhythmic therapies are probably not indicated. No antiarrhythmic drug is suitable for primary prevention of cardiac death except for beta blockers</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<br class="jop-noMdConv" />
+<p><img src="/_resources/69fcad69e3e945eebf00908cb9fab3df.png" /></p>
+<p>β-blockers can be good for NSVT b/c they decrease adrenergic tone which helps with NSVT.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dynamic EKG changes over time]]></title>
+            <guid>7912c1bd921c4c8a85fcc3a2691aced6</guid>
+            <pubDate>Sun, 18 Jun 2023 19:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Highlights importance of serial EKGs. This was a 72yo M with CP</p>
+<p>0858<br />
+<img src="/_resources/f9b7847eba9a4fa5bd093397fa3efeda.png" /><br />
+<br class="jop-noMdConv" /><br />
+0916<br />
+<img src="/_resources/b71ed2c6b0a74cc19ef527304fcaf04b.png" /><br />
+<br class="jop-noMdConv" /><br />
+0932<br />
+<img src="/_resources/6ebed063c12f41fc83fd04a5bec9fbbd.png" /></p>
+<p>If you didn't do serial EKGs, initial trop could've been normal range, then 2nd trop at 1100 would've been high and diagnosis was delayed by 90mins.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Artifact is Torsades Mimic]]></title>
+            <guid>67e07423748643b5b33a9460d3b5a719</guid>
+            <pubDate>Thu, 11 May 2023 06:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/89c77d9fa30b425f93e1e20456d9c415.png" /><br />
+<img src="/_resources/a2ca9374cd0847b987e18944030adb65.png" /></p>
+<p>Treat this pt with:<br />
+Amiodarone<br />
+Magnesium<br />
+Defibrillation<br />
+Cardioversion, or<br />
+Pacemaker</p>
+<p>Rhythm strip looks like torsades, but it has those little spikes, it's not smoothly polymorphic VT. This torsades-like appearance in an awake pt is artifact. It is impossible to have some leads be polyVT and others not. It's all or nothing.<br />
+We can see lead III shows us normal complexes that are very regular, and is in fact complete heart block.<br />
+Complexes in lead III align with weird spikes in other leads.</p>
+<p>Repeat EKG<br />
+<img src="/_resources/19cb21b56ffe4612bd4a0f55e3366371.png" /></p>
+<p>Pt had parkinson's and resting tremor was causing the artifact.</p>
+<hr />
+<p><img src="/_resources/d0c89a8b3b2d4a9891f03a082a585653.png" /><br />
+This is also artifact, The spikes march out regularly.<br />
+For this case, ortho, ED doc, and cards fellow thought it was torsades and started amiodarone. Cards attending said no it's artifact.</p>
+<p><img src="/_resources/f53b2391ea844e5e9511eac6b07e5004.png" /><br />
+<img src="/_resources/029a16cd1792465ea48cae1570cf8cef.png" /></p>
+<p><img src="/_resources/e7d96ceda4df47fe83078c80976141b4.png" /></p>
+<p>From 4/21(?) or 4/10 ECGW</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Non-sustained VT vs Non-sus Torsades]]></title>
+            <guid>47ca0851f1284eff8c07cc58c64a6722</guid>
+            <pubDate>Wed, 26 Apr 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/33478ed4ac2d41cbabe253584c8c59a3.png" /></p>
+<p>nonsustained runs of VT.</p>
+<ul>
+<li>For nonsustained VTach, give beta blockers b/c they help blunt the catecholamine surge and reduce ectopy.</li>
+<li>For sustained VT consider shocks, lidocaine, amiodarone</li>
+</ul>
+<hr />
+<p><img src="/_resources/30d87f788b674015a080ab37e8134af3.png" /></p>
+<p>This has runs of nonsustained polymorphic VT, so this is torsades.<br />
+Beta blockers will be harmful b/c it will slow HR and further prolong QT.<br />
+Amiodarone will be harmful b/c it will prolong QT.</p>
+<p>Pt was given epi and Mag and EKG improved.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PE on EKG]]></title>
+            <guid>9db7755df89840b2917551fcd39887ae</guid>
+            <pubDate>Sun, 23 Apr 2023 19:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="/_resources/1fcd484809cd416a978c95ee09acbb65.png" /><br />
+<img src="/_resources/d257e4dafeb2497498f6340bb0532433.png" /><br />
+<img src="/_resources/716f0539bb574f35aaba4ea9c604689d.png" />]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Benign Early Repol BER]]></title>
+            <guid>175589189ad449fd94f6313733f6f99f</guid>
+            <pubDate>Fri, 21 Apr 2023 14:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/1e08ccea74ee4c238ab4d875b3f6216f.png" /><br />
+<img src="/_resources/e7b62e4cd3df465885940574723fa9ad.png" /><br />
+<img src="/_resources/f82ab23325654b248e8f3c7c85f3c876.png" /><br />
+<img src="/_resources/dddb1edd9391410bb0c4d08f0487dc94.png" /><br />
+<img src="/_resources/c6c956ff3e824b7c8e793775ce820727.png" /><br />
+<img src="/_resources/865e0fce61b44e3390596e79da02d73c.png" /><br />
+<img src="/_resources/9f2b15062afa46e78c8463fcff96d4bd.png" /><br />
+<img src="/_resources/87b80c5383b148d49fb930f71cb09053.png" /><br />
+<img src="/_resources/2e956b20304146928d02adfa85378a53.png" /></p>
+<p><strong>Has only been described for young men of AA or caribbean descent with high voltage EKG</strong></p>
+<p>(inferior TWIs are fairly common)</p>
+<p>BER variants:<br />
+<img src="/_resources/0cad7c76130547bc8fdab0f5f09a87cd.png" /></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Wellens Syndrome]]></title>
+            <guid>c0e519b8576f47889fc5c3e394c12582</guid>
+            <pubDate>Thu, 12 Jan 2023 18:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/58e86ebde29040c89f1cd04df5360ad2.png" /></p>
+<p>Wellens syndrome represents a high-grade stenosis of the proximal LAD. Its natural progression often leads to anterior wall MI. Patients classically present with chest pain or pressure that resolves on its own before or during initial evaluation or after the patient receives nitroglycerin or pain medications. The initial ECG (while having pain) may not demonstrate the classic finding, however, it becomes evident when the patient becomes pain-free. Classically, Wellens’ sign is described as biphasic T-wave inversion or deep symmetrical T waves in leads V2-V4. ECG will be without Q waves and significant ST segment elevation, and with normal precordial R-wave progression. Cardiac enzymes are normal or minimally elevated. Medical management alone is not enough to stop natural progression, and thus additional management is required. Understanding and recognizing Wellens’ syndrome is of great importance as ST elevation may not be present and cardiac enzymes may also be negative. If the patient is subjected to a stress test for further cardiac evaluation, she may have sudden decompensation due to complete LAD occlusion and demonstrate an anterior ST elevation myocardial infarction. Treatment of patients with Wellens’ syndrome includes aspirin therapy, heparinization and urgent cardiac catheterization to evaluate the need for angioplasty or coronary artery bypass surgery.</p>
+<p>Unstable angina is on the continuum of acute coronary syndromes and resides between stable angina and ST elevation myocardial infarction. Patients are said to have unstable angina if they begin to experience angina at rest that lasts more than 20 minutes in duration, new-onset angina that limits physical activity, or increasing angina that is more frequent, longer in duration, or occurs with less exertion than previous angina. The difference between unstable angina and acute non-ST elevation myocardial infarction (NSTEMI) is whether the ischemia is severe enough to cause myocardial damage that results in detectable quantities of cardiac troponins.</p>
+<p><img src="/_resources/e668dd174a0e46b789895acaa90cbb30.png" /></p>
+<hr />
+<h1 id="wellens-mimics"><br class="jop-noMdConv" /><br class="jop-noMdConv" /><br />
+Wellen's Mimics</h1>
+<p>There is a variant of BER that looks like Wellens. This variant is really only diagnosable in males of AA or Caribbean descent and when the EKG has overall high voltage.<br />
+<em>Cannot diagnose in women or white/asian males.</em><br />
+<img src="/_resources/0564f6fdb9a04b3ca3cfa932a91824f6.png" /><br />
+<img src="/_resources/98ea2d64b8b94aeba559717266f26337.png" /><br />
+<img src="/_resources/7bed2a193fd34b6c94f50c5d66a501d0.png" /></p>
+<p>The little fishhooks leading into the T wave are suggestive of BER variant. Also, has quite high voltage compared to amplitude of T wave.<br />
+"Fish hook, then concave upwards, then very sharp drop down"<br />
+Overall: Fishhook, the concave upward, then steep drop is pattern of BER not Wellen's, though cath lab is still reasonable to r/o STEMI.</p>
+<p>Another example of BER:<br />
+<img src="/_resources/b2aee64f672348169ec0fb445dbcac89.png" /><br />
+<img src="/_resources/4ea8546fe7e44d8c8b17f1da73b81c69.png" /><br />
+<img src="/_resources/e2e3baf147d946f9930929caa375b104.png" /><br />
+<img src="/_resources/842e53df08014eba9454c3c97a2d3288.png" /><br />
+<img src="/_resources/e8bfeb19a7ec4a49baab863b8ab1e19c.png" /><br />
+<img src="/_resources/ec3e543774154650a6842a75277c1eb7.png" /><br />
+<img src="/_resources/d39a3530fc1844ee95632634b0fc3386.png" /></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hyperkalemia on EKG]]></title>
+            <guid>92d8cc149c96454590fe33205ad02fde</guid>
+            <pubDate>Tue, 13 Dec 2022 22:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/65157596230a4a71a867a3e3ad84b297.png" /></p>
+<blockquote>
+<p><strong>ECG findings in Hyperkalemia</strong></p>
+<ul>
+<li>Peaked T-waves (even when inverted)</li>
+<li>Widening of the QRS (often marked)</li>
+<li>Prolonged PR-interval</li>
+<li>Flattening and eventual loss of P-waves</li>
+<li>Bizarre tachydysrhythmias, pseudo ventricular tachycardia</li>
+<li>Bizarre bradydysrhythmia, advanced AV Blocks and sinus pauses</li>
+<li>Axis changes (especially RAD)</li>
+<li>Fascicular &amp; Bundle Branch Blocks</li>
+<li>Pseudo ACS with ST-segment changes (can mimic STEMI)</li>
+<li>Pseudo Brugada syndrome pattern</li>
+<li>Sine wave morphology</li>
+</ul>
+</blockquote>
+<p>Hyperkalemia produces predictable changes in ECG morphology based on the serum potassium level. Referred to as the string sign, once the classic peaked T waves appear, as the potassium level increases, the PQRST complex is pulled apart as if attached to a string. The ECG will eventually start to slow, the QT interval will prolong and a sine wave will be noticeable shortly before cardiac arrest. First-line treatment in a patient with hyperkalemia and ECG findings of a wide complex rhythm is calcium. Calcium directly stabilizes the cardiac membrane by increasing the critical firing threshold required to produce an action potential in cardiac myocytes. Calcium stabilizes the cardiac membrane but does not decrease the amount of serum potassium. Calcium is available for injection as either calcium gluconate or calcium chloride.<br />
+A Cochrane review recommends calcium chloride as the preferred treatment agent in the setting of cardiac dysrhythmia due to a 3-fold difference in the calcium bioavailability between the gluconate and chloride solutions. The preferred route of administration for calcium chloride is via central access since extravasation into peripheral tissue can lead to necrosis. Calcium gluconate is safe to administer via peripheral access.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[STEMI Criteria/EKG Changes]]></title>
+            <guid>221781bf619b4c49b15b259428057e81</guid>
+            <pubDate>Wed, 30 Nov 2022 22:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/fbafea6264ce489993d534f4ddc490e7.png" /><br />
+<img src="/_resources/d4efe2d109284c0ea6ad99d3ee89d759.png" /></p>
+<p><img src="/_resources/4cefee8d3f3e4c8fb61472afdc1fe435.png" /></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EKG Tox Manifestations]]></title>
+            <guid>897c7e47963143e89842bd769da4e520</guid>
+            <pubDate>Mon, 03 Oct 2022 18:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="/_resources/ab6e30bc766d4b6f91f3c0f8c77d21b2.png" />]]></content:encoded>
+        </item>
+    </channel>
+</rss>
