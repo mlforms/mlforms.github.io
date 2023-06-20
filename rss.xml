@@ -4,198 +4,432 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 17:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 20:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
-            <title><![CDATA[VT vs Nonsustained VT on EKG]]></title>
-            <guid>a32d3392dea9485aae2ac93eb249a50c</guid>
-            <pubDate>Sun, 18 Jun 2023 20:00:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p><strong>Ventricular Tachycardia (VT)</strong></p>
-<ul>
-<li>Sustained VT
-<ul>
-<li>Rate &gt; 120-130</li>
-<li>Lasts at least 30 seconds or produces hemodynamic instability</li>
-<li>Treatment with antiarrhythmics meds or cardioversion</li>
-</ul>
-</li>
-<li>Non-sustained VT
-<ul>
-<li>Rate &gt; 120-130</li>
-<li>Lasts &lt; 30 seconds, no associated hemodynamic instability</li>
-<li>Key to treatment is to look for and treat the underlying cause
-<ul>
-<li>Cardiac ischemic, hypoxia, electrolyte abnormalities, PE, etc.</li>
-<li>Cardiac ischemia may induce sustained or non-sustained monomorphic VT in the presence of a myocardial scar</li>
-<li>Empiric antiarrhythmic therapies are probably not indicated. No antiarrhythmic drug is suitable for primary prevention of cardiac death except for beta blockers</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<br class="jop-noMdConv" />
-<p><img src="/_resources/69fcad69e3e945eebf00908cb9fab3df.png" /></p>
-<p>β-blockers can be good for NSVT b/c they decrease adrenergic tone which helps with NSVT.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dynamic EKG changes over time]]></title>
-            <guid>7912c1bd921c4c8a85fcc3a2691aced6</guid>
-            <pubDate>Sun, 18 Jun 2023 19:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Highlights importance of serial EKGs. This was a 72yo M with CP</p>
-<p>0858<br />
-<img src="/_resources/f9b7847eba9a4fa5bd093397fa3efeda.png" /><br />
-<br class="jop-noMdConv" /><br />
-0916<br />
-<img src="/_resources/b71ed2c6b0a74cc19ef527304fcaf04b.png" /><br />
-<br class="jop-noMdConv" /><br />
-0932<br />
-<img src="/_resources/6ebed063c12f41fc83fd04a5bec9fbbd.png" /></p>
-<p>If you didn't do serial EKGs, initial trop could've been normal range, then 2nd trop at 1100 would've been high and diagnosis was delayed by 90mins.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Artifact is Torsades Mimic]]></title>
-            <guid>67e07423748643b5b33a9460d3b5a719</guid>
-            <pubDate>Thu, 11 May 2023 06:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p><img src="/_resources/89c77d9fa30b425f93e1e20456d9c415.png" /><br />
-<img src="/_resources/a2ca9374cd0847b987e18944030adb65.png" /></p>
-<p>Treat this pt with:<br />
-Amiodarone<br />
-Magnesium<br />
-Defibrillation<br />
-Cardioversion, or<br />
-Pacemaker</p>
-<p>Rhythm strip looks like torsades, but it has those little spikes, it's not smoothly polymorphic VT. This torsades-like appearance in an awake pt is artifact. It is impossible to have some leads be polyVT and others not. It's all or nothing.<br />
-We can see lead III shows us normal complexes that are very regular, and is in fact complete heart block.<br />
-Complexes in lead III align with weird spikes in other leads.</p>
-<p>Repeat EKG<br />
-<img src="/_resources/19cb21b56ffe4612bd4a0f55e3366371.png" /></p>
-<p>Pt had parkinson's and resting tremor was causing the artifact.</p>
+            <title><![CDATA[Mastering Pelvic Window]]></title>
+            <guid>97a388b465a04e1ab369cb12c116175b</guid>
+            <pubDate>Thu, 01 Jun 2023 19:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/661a44b4870946d0b647b32b5c769c4f.png" /><br />
+<img src="/_resources/6cd430fb6fb4454aaade5fd8f5359b1b.png" /></p>
+<p><img src="/_resources/aea22fa3d5434d93a90ebeddecbf7552.png" /><br />
+↑ you want to look on the L side of the bladder for the fluid. Posterior to the bladder (R side of image) is the prostate/sem ves, not where free fluid will be.</p>
 <hr />
-<p><img src="/_resources/d0c89a8b3b2d4a9891f03a082a585653.png" /><br />
-This is also artifact, The spikes march out regularly.<br />
-For this case, ortho, ED doc, and cards fellow thought it was torsades and started amiodarone. Cards attending said no it's artifact.</p>
-<p><img src="/_resources/f53b2391ea844e5e9511eac6b07e5004.png" /><br />
-<img src="/_resources/029a16cd1792465ea48cae1570cf8cef.png" /></p>
-<p><img src="/_resources/e7d96ceda4df47fe83078c80976141b4.png" /></p>
-<p>From 4/21(?) or 4/10 ECGW</p>
+<p><img src="/_resources/8ed5195df0b547dea6c905663e5967f2.png" /><br />
+Fluid will appear first in post cul-de-sac on supine pt</p>
+<p><img src="/_resources/bbe22938744a45f58a1ef944eaeafa36.png" /></p>
+<hr />
+<p><img src="/_resources/1a25bf079d09426d86396010413ceab6.png" /></p>
+<p><img src="/_resources/3fb967959c784d83a74aebe66fb88d35.png" /></p>
+<hr />
+<p><img src="/_resources/8a858262c48e4a16b544b6429386fb7e.png" /><br />
+↑ This is a very subtle fluid collection. Only visible bc bladder acts as a window. An empty bladder is indeterminate.</p>
+<p><img src="/_resources/398d11526f1c4342b29b260d28639883.png" /><br />
+<img src="/_resources/2d32b04d3a3645d28d118126f10baeb9.png" /><br />
+↑ small amnt of fluid</p>
+<hr />
+<p><img src="/_resources/6415304b79c34107926c1c01d0926d0b.png" /><br />
+↑ arrow points to bladder b/c you can see the bladder wall. Left of the bladder is partially anechoic blood and echogenic blood</p>
+<hr />
+<p><img src="/_resources/b266337fb494465da45dfb5602e9d90b.png" /><br />
+↑ retroflexed uterus with free fluid</p>
+<p><img src="/_resources/82645561d9804f11bc6f49dc3dccf478.png" /><br />
+Small amnt of free fluid in young female could be physiologic</p>
+<p><img src="/_resources/85ceb868dcc84fe0be1ebaffb83a7be2.png" /><br />
+↑ This a cyst, free fluid would not be spherical</p>
+<p><img src="/_resources/8798eaabb1044171bfd6c04aaf0d2986.png" /></p>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Non-sustained VT vs Non-sus Torsades]]></title>
-            <guid>47ca0851f1284eff8c07cc58c64a6722</guid>
-            <pubDate>Wed, 26 Apr 2023 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p><img src="/_resources/33478ed4ac2d41cbabe253584c8c59a3.png" /></p>
-<p>nonsustained runs of VT.</p>
+            <title><![CDATA[Mastering Perisplenic Window]]></title>
+            <guid>a1152d4e19354a00a062ec7e0e05ffbd</guid>
+            <pubDate>Thu, 25 May 2023 23:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/65fe8c56ff5f463faeef5f715557404f.png" /><br />
+<img src="/_resources/03e3da21bdee4ecc9ce4b874ea3c4b1f.png" /><br />
+<img src="/_resources/b91ce50b8e5b43498906a1ec2a3bc943.png" /><br />
+<img src="/_resources/893d684ac468419097d3438e5143d14c.png" /><br />
+<img src="/_resources/41342f1466844af0ae4e184d6afd63a3.png" /></p>
+<p>↑ Don't angle too anterior or you'll get stomach instead of kidney. To get kidney, keep probe more parallel to the bed.</p>
+<hr />
+<p><img src="/_resources/750c0eb9eb204acdbd5ed56dce93bb89.png" /><br />
+↑ When it's angled upward too much, you lose the kidney and get the stomach which looks odd<br />
+<img src="/_resources/59c2b0fad5b94778b066be2a88e0372b.png" /></p>
+<hr />
+<p><img src="/_resources/28f2676f419c4517a546bf562b27402b.png" /><br />
+Inspiration generally leads to worse views as air enters the field.</p>
+<hr />
+<p><img src="/_resources/044cf1d654194ff2b959cf76d1f2be7b.png" /><br />
+<img src="/_resources/fdfdf46e9c19481ab2fcb02ad5abedb5.png" /><br />
+<img src="/_resources/98f38a00f77648e29883ad9a5d19c475.png" /><br />
+↑ Subcapsular hematoma and hemoperitoneum</p>
+<hr />
+<p>Enlarged left liver lobe can resemble subcapsular hematoma<br />
+<img src="/_resources/76cab6ece9f34e56b651c6ea634bf557.png" /><br />
+<img src="/_resources/dafeb66c725d485f9297929bd9d47106.png" /><br />
+<img src="/_resources/b90c4fe50ed342e08e656d098277e4f6.png" /><br />
+↑ With flow you can see it's liver and not free fluid<br />
+<img src="/_resources/33222cd02c694f779e275d830b6536fd.png" /><br />
+<img src="/_resources/9e37fceb93fe494ca5ba9238b20884a2.png" /><br />
+↑ Ascites and enlarged L liver lobe</p>
+<hr />
+<p><img src="/_resources/406d0845a9e94ecaaf09e168aef62efa.png" /><br />
+↑ Small hemoperitoneum and also spleen has parenchymal damage and appears heterogenous</p>
+<p><img src="/_resources/e9d15854989d475e9060332752a626d8.png" /><br />
+↑ Hemothorax and hemoperitoneum<br />
+<img src="/_resources/60bab30e0b76444490d0e854ea2f107f.png" /><br />
+↑ only hemothorax</p>
+<p><img src="/_resources/cf1a9f71c55645d4894fc1761c703caa.png" /><br />
+<img src="/_resources/f0f0508e1e0c45f0973c13885c430f2b.png" /></p>
+<hr />
+<p>Images<br />
+<img src="/_resources/7a35a78da2f648af9cf9515ce2e3f832.png" /><br />
+↑ parenchymal injury and small free fluid at 11 oclock</p>
+<p><img src="/_resources/0cbd15a88969475ebcb97cbb9621623c.png" /><br />
+Spleen has hyperechoic regions that is evidence of parenchymal injury</p>
+<p><img src="/_resources/c4ce1ecf6e884d4eaa8ed621138a9108.png" /><br />
+↑ Retroperitoneal fluid<br />
+<img src="/_resources/54c77e6d718c44f4816f86a2f8593c07.png" /><br />
+↑ Hemoperitoneum and hemothorax</p>
+<p><img src="/_resources/44f4938a76294fd79db76e475083cc55.png" /><br />
+arrow is a small amount of fluid, heterogenous hyperechoic spleen represents splenic laceration grade 3/4</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mastering Perihepatic Window]]></title>
+            <guid>2f9fc23981bd4302b645dea9cb7db158</guid>
+            <pubDate>Thu, 25 May 2023 18:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/25f7b6720db64f62942e68260fda9557.png" /><br />
+<img src="/_resources/e8e99da62fa3485d8d60cc60e33bc242.png" /></p>
+<hr />
+<p><img src="/_resources/3d1f089825ce4a7986cead9bad0d85d2.png" /><br />
+↑ This is gallbladder, not +FAST</p>
+<hr />
+<p><img src="/_resources/01407a41942346728328fef7409f4147.png" /><br />
+This could be confused with fluid, but as the liver slides with insipration the shape and density of the collection doesn't change, so it's not a liquid.</p>
+<hr />
+<p><img src="/_resources/c44f3e555143412fbf9fc495a388d13e.png" /><br />
+<img src="/_resources/185d60fb018944f0ae7a8302c09a3cac.png" /><br />
+↑ Liver injury appears hyperechoic<br />
+<img src="/_resources/e6154f08183c4616b1392f4b3898dda5.png" /></p>
+<p>↑ This fluid collection is retroperitoneal from a renal laceration. Pointer indicates the true renal capsule, fluid is around the renal capsule.</p>
+<hr />
+<p><img src="/_resources/7896d8a2324e42fa9017f88b8369dd4f.png" /><br />
+↑ This is not a +FAST, this is the gallbladder. We don't see the kidney bc we aren't at the normal perihepatic window. The anechoic fluid has a subtle wall around it containing it and doesn't extend upward like blood would.</p>
+<hr />
+<p><img src="/_resources/722c8bafc6764224b2171f4aafbeb434.png" /><br />
+↑ Here if you look closely the fluid is below the perinephric fat so it is retroperitoneal.</p>
+<hr />
+<p><img src="/_resources/0a9c457d5f5e4cc3843c127ec1d10d1b.png" /><br />
+↑ Some fluid is anechoic and some is echogenic, so could be clotted blood or also bowel. We can see the fluid abuts right against the liver with no subtle bowel wall separating them so we know it is free fluid.<br />
+<img src="/_resources/c866093d61c14ce7bf4a6cae53e28a75.png" /><br />
+↑ The points indicates a shine-down artifact which is, in fact, free air in the abdomen.</p>
+<hr />
+<p><img src="/_resources/3115c70d3c6a4cf68dcb053b31c82b9e.png" /><br />
+No fluid in morrison pouch, but that circle of fluid is sus. Fluid doesn't extend around kidney or anywhere else and has a small wall - it is bowel.</p>
+<hr />
+<p><img src="/_resources/5299848b44384f7eab87f056600c6c5c.png" /><br />
+↑ This is retroperitoneal<br />
+<img src="/_resources/9fc3c5f481324e07a10072d17a8e5127.png" /><br />
+↑ This is peritoneal as it is between perinephric fat and the liver</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mastering PSL View]]></title>
+            <guid>0eb9e9ddbdc74ee299ab171394c69249</guid>
+            <pubDate>Thu, 25 May 2023 16:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/62c3561fc8204cc0a7fda7baf8f2bc52.png" /><br />
+<img src="/_resources/035560f72bbf464094f173dc5a7a778d.png" /><br />
+<img src="/_resources/fc5b9d0989154a09862368fde4d56fcd.png" /></p>
+<p><img src="/_resources/244e8cfca56e4d5f8e41643cf0a3a3c5.png" /></p>
+<p><img src="/_resources/74d640a280054075911ad0b15c0c9073.png" /></p>
+<hr />
+<p><img src="/_resources/93689890e8224fedb3a58c7d576e1efd.png" /></p>
+<p>↑ This is a pericardial effusion because it extends from the apex of the heart to beyond the descending Aorta.</p>
+<hr />
+<p><img src="/_resources/23049c95d8984cbea3a3776ff56acb1b.png" /></p>
+<p>↑ This is L pleural effusion</p>
+<hr />
+<p><img src="/_resources/f7161bb9b7f74acb877b227b2f8bc4ef.png" /><br />
+Here the subcostal view was unclear whether it was a percardial effusion or fat pad. But on PSL window the questionable effusion is only present anterior to the heart in the supine pt, so it is very likely a fat pad.</p>
+<p><img src="/_resources/3942a9a18065432b9248b67025535c44.png" /></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[E-FAST]]></title>
+            <guid>516bfa9048f44b2e812cd794ab291416</guid>
+            <pubDate>Thu, 25 May 2023 16:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Don't miss hemopericaridum bc you're expecting an anechoic appearance. Hemopericardium can be echogenic.<br />
+<img src="/_resources/030cfe663d8c478caeb2fd0eb2dae69f.png" /><br />
+<img src="/_resources/7c24d3dd25e948a3b7fe8f43512e8e68.png" /><br />
+↑ this pt was stabbed 15mins PTA, fluid is not anechoic</p>
+<hr />
+<p><img src="/_resources/18d36dc817c142d280527a649e1886d7.png" /><br />
+<img src="/_resources/b26d411813e04301a3ad3f2149371b23.png" /><br />
+<img src="/_resources/d53b672c0817446eba7a7bfb197778af.png" /><br />
+<img src="/_resources/8dcdc097e59c414592d274a98b409438.png" /></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lung US]]></title>
+            <guid>86015b7dfac642ef99f370e3a1408efd</guid>
+            <pubDate>Sun, 22 Jan 2023 21:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/3319107c535347179d2d361232794241.png" /><br />
+<img src="/_resources/baca19b2ad194bc5861f39e1d2a0d49a.png" /><img src="/_resources/ad5e364452fe4690b24c7caf8649960d.png" /></p>
+<p><img src="/_resources/338e68a50b334579bea0fed4ffa9be11.png" /></p>
+<p>If you see A-lines <em>and</em> lung sliding, this signifies an absence of interstitial syndrome, alverolar consolidation, and pleural effusion at that specific area.</p>
+<hr />
+<p><img src="/_resources/110d46808d564ad8ba964cdbb756f10b.png" /></p>
 <ul>
-<li>For nonsustained VTach, give beta blockers b/c they help blunt the catecholamine surge and reduce ectopy.</li>
-<li>For sustained VT consider shocks, lidocaine, amiodarone</li>
+<li>True B lines go all the way to the bottom of the screen.</li>
+<li>B lines can be indicative of PNA, pulmonary contusion, pulm fibrosis, pulm infection</li>
+<li>B lines on both sides indicates diffuse process like pulmonary edema<br />
+<img src="/_resources/f0e497d7373748d8ab76f7d5ae6c6914.png" /></li>
 </ul>
 <hr />
-<p><img src="/_resources/30d87f788b674015a080ab37e8134af3.png" /></p>
-<p>This has runs of nonsustained polymorphic VT, so this is torsades.<br />
-Beta blockers will be harmful b/c it will slow HR and further prolong QT.<br />
-Amiodarone will be harmful b/c it will prolong QT.</p>
-<p>Pt was given epi and Mag and EKG improved.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PE on EKG]]></title>
-            <guid>9db7755df89840b2917551fcd39887ae</guid>
-            <pubDate>Sun, 23 Apr 2023 19:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/_resources/1fcd484809cd416a978c95ee09acbb65.png" /><br />
-<img src="/_resources/d257e4dafeb2497498f6340bb0532433.png" /><br />
-<img src="/_resources/716f0539bb574f35aaba4ea9c604689d.png" />]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Benign Early Repol BER]]></title>
-            <guid>175589189ad449fd94f6313733f6f99f</guid>
-            <pubDate>Fri, 21 Apr 2023 14:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p><img src="/_resources/1e08ccea74ee4c238ab4d875b3f6216f.png" /><br />
-<img src="/_resources/e7b62e4cd3df465885940574723fa9ad.png" /><br />
-<img src="/_resources/f82ab23325654b248e8f3c7c85f3c876.png" /><br />
-<img src="/_resources/dddb1edd9391410bb0c4d08f0487dc94.png" /><br />
-<img src="/_resources/c6c956ff3e824b7c8e793775ce820727.png" /><br />
-<img src="/_resources/865e0fce61b44e3390596e79da02d73c.png" /><br />
-<img src="/_resources/9f2b15062afa46e78c8463fcff96d4bd.png" /><br />
-<img src="/_resources/87b80c5383b148d49fb930f71cb09053.png" /><br />
-<img src="/_resources/2e956b20304146928d02adfa85378a53.png" /></p>
-<p><strong>Has only been described for young men of AA or caribbean descent with high voltage EKG</strong></p>
-<p>(inferior TWIs are fairly common)</p>
-<p>BER variants:<br />
-<img src="/_resources/0cad7c76130547bc8fdab0f5f09a87cd.png" /></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Wellens Syndrome]]></title>
-            <guid>c0e519b8576f47889fc5c3e394c12582</guid>
-            <pubDate>Thu, 12 Jan 2023 18:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p><img src="/_resources/58e86ebde29040c89f1cd04df5360ad2.png" /></p>
-<p>Wellens syndrome represents a high-grade stenosis of the proximal LAD. Its natural progression often leads to anterior wall MI. Patients classically present with chest pain or pressure that resolves on its own before or during initial evaluation or after the patient receives nitroglycerin or pain medications. The initial ECG (while having pain) may not demonstrate the classic finding, however, it becomes evident when the patient becomes pain-free. Classically, Wellens’ sign is described as biphasic T-wave inversion or deep symmetrical T waves in leads V2-V4. ECG will be without Q waves and significant ST segment elevation, and with normal precordial R-wave progression. Cardiac enzymes are normal or minimally elevated. Medical management alone is not enough to stop natural progression, and thus additional management is required. Understanding and recognizing Wellens’ syndrome is of great importance as ST elevation may not be present and cardiac enzymes may also be negative. If the patient is subjected to a stress test for further cardiac evaluation, she may have sudden decompensation due to complete LAD occlusion and demonstrate an anterior ST elevation myocardial infarction. Treatment of patients with Wellens’ syndrome includes aspirin therapy, heparinization and urgent cardiac catheterization to evaluate the need for angioplasty or coronary artery bypass surgery.</p>
-<p>Unstable angina is on the continuum of acute coronary syndromes and resides between stable angina and ST elevation myocardial infarction. Patients are said to have unstable angina if they begin to experience angina at rest that lasts more than 20 minutes in duration, new-onset angina that limits physical activity, or increasing angina that is more frequent, longer in duration, or occurs with less exertion than previous angina. The difference between unstable angina and acute non-ST elevation myocardial infarction (NSTEMI) is whether the ischemia is severe enough to cause myocardial damage that results in detectable quantities of cardiac troponins.</p>
-<p><img src="/_resources/e668dd174a0e46b789895acaa90cbb30.png" /></p>
+<p>C profile is tissue/hepatization appear of lungs.<br />
+<img src="/_resources/fb32879262354fb4a631a9cbe5668bcf.png" /><br />
+<img src="/_resources/95bca5ee45644e8497ab4a1da80735fa.png" /></p>
 <hr />
-<h1 id="wellens-mimics"><br class="jop-noMdConv" /><br class="jop-noMdConv" /><br />
-Wellen's Mimics</h1>
-<p>There is a variant of BER that looks like Wellens. This variant is really only diagnosable in males of AA or Caribbean descent and when the EKG has overall high voltage.<br />
-<em>Cannot diagnose in women or white/asian males.</em><br />
-<img src="/_resources/0564f6fdb9a04b3ca3cfa932a91824f6.png" /><br />
-<img src="/_resources/98ea2d64b8b94aeba559717266f26337.png" /><br />
-<img src="/_resources/7bed2a193fd34b6c94f50c5d66a501d0.png" /></p>
-<p>The little fishhooks leading into the T wave are suggestive of BER variant. Also, has quite high voltage compared to amplitude of T wave.<br />
-"Fish hook, then concave upwards, then very sharp drop down"<br />
-Overall: Fishhook, the concave upward, then steep drop is pattern of BER not Wellen's, though cath lab is still reasonable to r/o STEMI.</p>
-<p>Another example of BER:<br />
-<img src="/_resources/b2aee64f672348169ec0fb445dbcac89.png" /><br />
-<img src="/_resources/4ea8546fe7e44d8c8b17f1da73b81c69.png" /><br />
-<img src="/_resources/e2e3baf147d946f9930929caa375b104.png" /><br />
-<img src="/_resources/842e53df08014eba9454c3c97a2d3288.png" /><br />
-<img src="/_resources/e8bfeb19a7ec4a49baab863b8ab1e19c.png" /><br />
-<img src="/_resources/ec3e543774154650a6842a75277c1eb7.png" /><br />
-<img src="/_resources/d39a3530fc1844ee95632634b0fc3386.png" /></p>
+<p><img src="/_resources/87e72af5fd364b138941b3c0d9b13384.png" /><br />
+<img src="/_resources/d613eba97b6b4da182b062957af96b5a.png" /><br />
+DLP is when a PTX is so small you can see a non-mobile segment of the pleura between two moving segments</p>
+<hr />
+<p><img src="/_resources/4773395e13df4657a01b36209c0f58ec.png" /><br />
+Effusions can be anechoic or echogenic. Echogenic effusions are associated w hemorrhage, CA, infection</p>
+<p><img src="/_resources/0de3ce01b89a458ea67bbc4efa8eb9e6.png" /><br />
+<img src="/_resources/6eda5b89bb2344c1a9ce71dcc63ae765.png" /></p>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hyperkalemia on EKG]]></title>
-            <guid>92d8cc149c96454590fe33205ad02fde</guid>
-            <pubDate>Tue, 13 Dec 2022 22:54:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p><img src="/_resources/65157596230a4a71a867a3e3ad84b297.png" /></p>
-<blockquote>
-<p><strong>ECG findings in Hyperkalemia</strong></p>
+            <title><![CDATA[Aorta Ultrasound]]></title>
+            <guid>add404f9244f4a9fa0c4220fffe417d8</guid>
+            <pubDate>Thu, 22 Dec 2022 01:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Common reason for difficulty in overlying bowel gas. Use gentle transducer pressure to displace bowel gas.</p>
+<hr />
+<p>Aorta is not a straight line, will need to 'rock &amp; glide' to visualize who aorta all the way down.</p>
+<p><span style="color:#ff0857" class="jop-noMdConv">Beware you do not slide from the aorta to the IVC without realizing it</span></p>
+<p><img src="/_resources/49468312099f4a7baffbe09e67016aea.png" /></p>
+<hr />
+<p>Identify the celiac and SMA to ensure this is the Aorta</p>
+<p><img src="/_resources/1225cd18aa454681b38e59cc1a30baa2.png" /></p>
+<p>90% of aortic aneurysms are near the renal arteries or lower.</p>
+<hr />
 <ul>
-<li>Peaked T-waves (even when inverted)</li>
-<li>Widening of the QRS (often marked)</li>
-<li>Prolonged PR-interval</li>
-<li>Flattening and eventual loss of P-waves</li>
-<li>Bizarre tachydysrhythmias, pseudo ventricular tachycardia</li>
-<li>Bizarre bradydysrhythmia, advanced AV Blocks and sinus pauses</li>
-<li>Axis changes (especially RAD)</li>
-<li>Fascicular &amp; Bundle Branch Blocks</li>
-<li>Pseudo ACS with ST-segment changes (can mimic STEMI)</li>
-<li>Pseudo Brugada syndrome pattern</li>
-<li>Sine wave morphology</li>
+<li>As you proceed down, the Aorta becomes more superficial.</li>
+<li>Follow the aorta through the bifurcation into common iliacs which occurs are the umbilicus</li>
+<li>The common iliacs will then dive deeper/more posteriorly.</li>
 </ul>
-</blockquote>
-<p>Hyperkalemia produces predictable changes in ECG morphology based on the serum potassium level. Referred to as the string sign, once the classic peaked T waves appear, as the potassium level increases, the PQRST complex is pulled apart as if attached to a string. The ECG will eventually start to slow, the QT interval will prolong and a sine wave will be noticeable shortly before cardiac arrest. First-line treatment in a patient with hyperkalemia and ECG findings of a wide complex rhythm is calcium. Calcium directly stabilizes the cardiac membrane by increasing the critical firing threshold required to produce an action potential in cardiac myocytes. Calcium stabilizes the cardiac membrane but does not decrease the amount of serum potassium. Calcium is available for injection as either calcium gluconate or calcium chloride.<br />
-A Cochrane review recommends calcium chloride as the preferred treatment agent in the setting of cardiac dysrhythmia due to a 3-fold difference in the calcium bioavailability between the gluconate and chloride solutions. The preferred route of administration for calcium chloride is via central access since extravasation into peripheral tissue can lead to necrosis. Calcium gluconate is safe to administer via peripheral access.</p>
+<p><img src="/_resources/aac2f7efb9514a2690ea9a77582247f3.png" /><br />
+If you tilt to a more coronal view, you can see both common iliacs.</p>
+<p><img src="/_resources/53cc6c5935e940abb18ad3b9f5414057.png" /><br />
+You want to measure at B which is the widest part of the aorta</p>
+<hr />
+<p><img src="/_resources/f9aefb5c8db8484f9e2734a9c97996ee.png" /><br />
+<img src="/_resources/202cef04009249e48fe8f32cc16e83da.png" /><br />
+<img src="/_resources/f31b7b605d9e4bfa81404fc48e0932c5.png" /><br />
+<img src="/_resources/fb7a71506e5e4d1eadafa792cf1bb6d7.png" /><br />
+<img src="/_resources/9b75f50e046d47c891b8eb7c06ce7d1c.png" /><br />
+↑ If your field of depth is too shallow, you may mistake the two vessel on the top for the IVC and aorta,  but those are actually SMA and SMV. You need to visualize the vertebral bodies to have a frame of refence to know the Aorta should be right on top of the vertebral bodies.</p>
+<p><img src="/_resources/253b60148d344d8a8e453a8ff550db10.png" /></p>
+<p><img src="/_resources/24eec45279594dc3aeecb099affebc01.png" /></p>
+<hr />
+<hr />
+<p><img src="/_resources/f94363b687ae44198bce9c024f0be1af.png" /><br />
+↑ These images have athersclerotic plaques and intimal thickening but not aneurysm</p>
+<p><img src="/_resources/e82bbb20e4c54b99b1ae0f8fdebb51ea.png" /><br />
+<img src="/_resources/613e7b357e924cfe80c3f5c7fe98030c.png" /><br />
+Left side has large mural thrombus, R side does not</p>
+<hr />
+<p><img src="/_resources/e837fdbef589444ea7441f2bbb413be2.png" /><br />
+<strong>Fusiform aneurysm</strong> has gradual widening of the aorta like a slope/cone.</p>
+<p><img src="/_resources/e4379c2160f346e58f6a9f50997c3428.png" /><br />
+Saccular aneurysm is more aprupt dilatation.<br />
+<img src="/_resources/9be39b9a90ff49b9bbeb4413aa7bb6d6.png" /></p>
+<p><img src="/_resources/711959ad8e0f42e38bf0bb399d7760f9.png" /><br />
+90% of AAAs are infrarenal</p>
+<hr />
+<p><img src="/_resources/97b484f2aa8041a7816499c317875e2d.png" /></p>
+<p><img src="/_resources/f932ea3e7ece4f26bbdd5defb33a490d.gif" /></p>
+<p><img src="/_resources/2d2bc9c0117e46a9bfd5bcb18eabe7ea.png" /></p>
+<hr />
+<p><img src="/_resources/c2bf5b40e78e47d3bc8e907e916d33e5.png" /><br />
+This thin speck of fluid next to contained kidney cyst is retroperitoneal hemorrhage from rupture</p>
+<p><img src="/_resources/ba2bc7ad55a8489cb11250e0027a61b1.png" /><br />
+↑ Those little stripes of free fluid adjacent to Morrison's pouch is retroperitoneal hemorrhage.</p>
+<hr />
+<p><img src="/_resources/7b0922d500354c7099b4625d9362b020.png" /><br />
+<img src="/_resources/17b859bffa474206b2e725755f2a99eb.png" /><br />
+<img src="/_resources/9c64945302dc4285ac1295432b49ab4e.png" /></p>
+<hr />
+<p><img src="/_resources/9d74bee39ed84bcdae0ed5abb7d6346e.png" /><br />
+↑ Reverberation artifact, not a dissection</p>
+<hr />
+<p><img src="/_resources/87bcf174adb54cfb9625f1ea191312d6.png" /></p>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[STEMI Criteria/EKG Changes]]></title>
-            <guid>221781bf619b4c49b15b259428057e81</guid>
-            <pubDate>Wed, 30 Nov 2022 22:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p><img src="/_resources/fbafea6264ce489993d534f4ddc490e7.png" /><br />
-<img src="/_resources/d4efe2d109284c0ea6ad99d3ee89d759.png" /></p>
-<p><img src="/_resources/4cefee8d3f3e4c8fb61472afdc1fe435.png" /></p>
+            <title><![CDATA[Gallbladder US]]></title>
+            <guid>8a9a6e2868a8419796da8c965a419428</guid>
+            <pubDate>Fri, 25 Nov 2022 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/489e926524c54cbdac5ecba76c41ac52.png" /></p>
+<p>Decision for operative management of cholecystitis is made only after CBD is evaluated because we need to r/o choledocolithiasis. Must obtain a formal US or be proficient enough to evaluate the CBD on US.</p>
+<p><img src="/_resources/a5c89dc634374a7f99bab4702d89757e.png" /></p>
+<p><img src="/_resources/2a78ad954c594711b39e856378ba0124.png" /></p>
+<p>If you can't visualize GB, try having pt take deep breath.  With inspiration on sagittal view, liver/GB will come into view from the L side.<br />
+Also try L lateral decubitus position</p>
+<p><img src="/_resources/2a9e5fd44cdd49e098ef2dce720d5467.png" /></p>
+<p><img src="/_resources/79d01616078e468093134219a7807ea8.png" /><br />
+<img src="/_resources/6cb1411232f54ff2bea8b3518c29c26c.png" /></p>
+<p><img src="/_resources/001ad50517214bd8a861d0e7a43a9ab0.png" /></p>
+<hr />
+<p>Whether or not the stones are mobile and roll around in the GB will tell us whether the stone is impacted or not.</p>
+<p><img src="/_resources/25a146e4708b4ec3a2232e9224aa45e1.png" /><br />
+<img src="/_resources/fcbe60f3c7694188a4b32ba91800a434.png" /><br />
+Gallstones can be trapped in the folds</p>
+<p><img src="/_resources/528fbe7ef39249fcbea65120f446a515.png" /><br />
+Septations are rare</p>
+<p><img src="/_resources/7e17eaed4e0747ac89080f89dda89e97.png" /><br />
+Shape should be tapering like a sweet potato/carrot, not rounded at the neck like an eggplant. We must visualize the neck of the GB.</p>
+<p><img src="/_resources/6ed3b56eff2c4d679e1a50a9c96755e4.png" /></p>
+<p><img src="/_resources/4ef5fb88daff4f35a9e27ce9c01736e9.png" /><br />
+↑ Reverberation artifacts, not to be confused with pathology</p>
+<p><img src="/_resources/bfe2f4dd0a5b433eafd594a811685e11.png" /><br />
+Here, there are mustiple stones with clear echogenic shadowing. There is some sludge on top of the stones here.</p>
+<p><img src="/_resources/5c26f14e8ce94049b97d2ae55bc6e76f.png" /></p>
+<p><img src="/_resources/98bd6f1957c342a593c74f842c2689ab.png" /><br />
+3 stones here, with one in the neck and impacted. The impacted one did not move around in the lumen of the gallbladder.</p>
+<p><img src="/_resources/51972dc5540f415d8c060ea9202545de.png" /><br />
+↑ There are several stones here, but the leftmost is too small to cause acoustic shadowing, less than ~3mm.<br />
+<img src="/_resources/bcfe8d26cad64c9e93678446a1e62eb7.png" /></p>
+<p><img src="/_resources/baed4e65f19648e9a57352f94f07bc4e.png" /><br />
+↑ Harmonics can help visualize stones and shadowing</p>
+<p><img src="/_resources/6b429999c33648a89384f5fbbd32098d.png" /><br />
+Clinical significance of sludge is unclear. Sludge is isoechocic to liver parenchyma.</p>
+<p><img src="/_resources/386a6b969ec34ecf8ce6243d6e72efa9.png" /><br />
+<img src="/_resources/b358f577dcb14f90b025ec14b57a5dc8.png" /><br />
+<img src="/_resources/a46b9aa703474187842a280c25a3cc72.png" /><br />
+<img src="/_resources/918670fa9a0f42689c306dc763dc9eea.png" /></p>
+<hr />
+<p><img src="/_resources/7636af9f93534cce800d2bc97972a815.png" /><br />
+Measure anterior wall</p>
+<p><img src="/_resources/5879950f6b4d41d0a2d745fc258c9af0.png" /><br />
+↑ This pt has wall thickening that was nonbiliary, was from CA, proteinemia, sepsis</p>
+<p><img src="/_resources/02439017d1cc47a1847e0fb5391efadf.png" /><br />
+↑ GB wall thickening due to liver disease</p>
+<p><img src="/_resources/fbe0e0f684f94abdaf5725fcee66765a.png" /><br />
+<img src="/_resources/0e4b0fc522b04060aba7b4427bca946b.png" /><br />
+Focal wall thickening without cholesterol crystals warrants further examination</p>
+<p><img src="/_resources/22a72c5d6e3744aaa4e1fa4749d3a03f.png" /><br />
+↑ Small fluid collection at 9 o'clock</p>
+<p><img src="/_resources/abe07ea6890445378eaecd0387891c56.png" /></p>
+<p><img src="/_resources/01ce8c64fc6b41c2a1af02dd6062f0ce.png" /><br />
+Fundus is most common site for cholecystitis perforation due to less blood supply</p>
+<p><img src="/_resources/031aedbf1ea74775aecde62969fb69f4.png" /></p>
+<hr />
+<p><img src="/_resources/e957e63841a147498c0c90b1816dc764.png" /><br />
+7mm innerwall-to-innerwall<br />
+Some say add 1mm per decade of life &gt;70yo</p>
+<p><img src="/_resources/3e7e2142657b4058b7cbd9484d956705.png" /><br />
+<img src="/_resources/ee4bb977398d42548bb23d4b042f8a7e.png" /><br />
+<img src="/_resources/d27fd2c451204169a62bd9af1aec9648.png" /></p>
+<p><img src="/_resources/d253676571ae4cdcb9134bdce9389bbe.png" /><br />
+↑ Choledocolithiasis<br />
+<img src="/_resources/86423991684149058164a2ab75eb9e65.png" /><br />
+↑ Stone in CBD and stones in GB. CBD not dilated but can obviously see gallstone</p>
+<p><img src="/_resources/edb7c9d9ebe4434bab78c35ce4f088ae.png" /><br />
+GB, and CBD right below in Sag view</p>
+<hr />
+<h1 id="summary">Summary</h1>
+<p><img src="/_resources/4bd358c71af34727ae249c838d91f976.png" /><br />
+<img src="/_resources/4f8c58ab67794190b4f0131700ec18b9.png" /><br />
+<img src="/_resources/e2a11e973ad14e3a814f5570b4868737.png" /><br />
+<img src="/_resources/7c00a32ed8b445fda6a1e0b00640134e.png" /><br />
+<img src="/_resources/bcfce19efa1f4beebd09de4f2491b391.png" /></p>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EKG Tox Manifestations]]></title>
-            <guid>897c7e47963143e89842bd769da4e520</guid>
-            <pubDate>Mon, 03 Oct 2022 18:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="/_resources/ab6e30bc766d4b6f91f3c0f8c77d21b2.png" />]]></content:encoded>
+            <title><![CDATA[Renal/Bladder US]]></title>
+            <guid>273735d819664856905ba8853187110e</guid>
+            <pubDate>Wed, 02 Nov 2022 17:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/f8da3952dce840aab8cfcff69192d48f.png" /><br />
+<img src="/_resources/85fd35bced964d36b2927bd15e1913ac.png" /></p>
+<hr />
+<p><img src="/_resources/00ca6807be1d47a688928325528947f7.png" /><br />
+Note that we need to view the pelvis, for example, cross-section A and C would not include the pelvis to assess for hydronephrosis. Sweep through the kidney</p>
+<p><img src="/_resources/68befa795ebf4c51aab31c1c2cf8933e.png" /><br />
+<img src="/_resources/75653198f8bc46dca4534b3aa18388f2.png" /></p>
+<hr />
+<p><img src="/_resources/6d10ec8904ed4f16af9b4d2236329f64.png" /></p>
+<hr />
+<p><img src="/_resources/1e63d931a7e04106bd0dcc40ec4114f8.png" /><br />
+<img src="/_resources/215e6f907c3941689c6b8d0db0a4909e.png" /></p>
+<p><img src="/_resources/31463091e07341adbfac8621ae704a34.png" /><br />
+<img src="/_resources/09ce35ce0b464a65ae0f36cb3351da15.png" /></p>
+<p>If there is difficulty viewing the renal pelvis, pt can be placed in right lat decubitus to get a better view</p>
+<p><img src="/_resources/4e55b2c917a24f6d94386a026e4aadc0.png" /></p>
+<hr />
+<h1 id="hydronephrosis">Hydronephrosis</h1>
+<p><img src="/_resources/6f9bcf9975034fd1943d36a4b78a5a0d.png" /><br />
+<img src="/_resources/58b8716024344fadb42f3190f1e4dbfd.png" /><br />
+Chronic hydronephrosis will lead to thinning of the parenchyma.<br />
+<img src="/_resources/94b237463e3d4eb1bbad8accfee09743.png" /><br />
+Hallmark of severe nephrosis is the connection of the major with the minor calyxes and pelvis.<br />
+Renal fluid should be anechoic. If there are echos in the fluid, assume it's blood/pus.</p>
+<p><img src="/_resources/55b9cde0955f4b1ea2b95c3d431a3531.png" /></p>
+<p>It's easy to miss mild hydronephrosis. <img src="/_resources/a15c30f69ca548c4b4c9efdcfa8d5ac5.png" /><br />
+Don't set the gain too high or it could bleed over and obscure the hydro. Use color dopper to see if fluid is blood vessels or urine.<br />
+<img src="/_resources/d4af9397b70944548e7472943ce3ffaa.png" /><br />
+<img src="/_resources/12777de153f941319c27a0c05fbde88f.png" /></p>
+<p>If there is extra-renal pelvis dilation, that's okay as long as intrarenal pelvis is not dilated.<br />
+<img src="/_resources/851ee6a85622499d933117948aa602d1.png" /></p>
+<hr />
+<p><img src="/_resources/3ffa7e4220e8444893cb76caedf52189.png" /></p>
+<p><img src="/_resources/77fcfe4498954bec8112a27a15f043f5.png" /><br />
+<img src="/_resources/3b762fb40ba84b2a8339d4629d2cf4e4.png" /><br />
+<img src="/_resources/c1caef908ea44cf0b0ff538e0f4828a2.png" /><br />
+<img src="/_resources/cbe555d39df8444c89d0187974d8d3c1.png" /><br />
+<img src="/_resources/4bcfb689af154c4b92c2babf1c2f10be.png" /><br />
+<img src="/_resources/d4df70fe85d247b68e2a11bc762fe94d.png" /><br />
+<img src="/_resources/932c8358085d42e98125008867cba47d.png" /></p>
+<p><img src="/_resources/4647374360cf4036a66efbca4a23603b.png" /><br />
+<img src="/_resources/e27b0defb3dc423292bb0adbda453636.png" /><br />
+<img src="/_resources/5a0a7c19891c448ab9a068c53c7fbdc4.png" /><br />
+<img src="/_resources/b400c82dceff495d9470351e09301065.png" /><br />
+<img src="/_resources/e4f06352b93840a8b77225b2e0950fe2.png" /><br />
+balloon inflated in prostatic urethra<br />
+<img src="/_resources/699df78312df4baf9a4b350844f9cf6a.png" /></p>
+<hr />
+<h1 id="stones">Stones</h1>
+<p><img src="/_resources/f8c3e0550ffc48dc8a3a5455f27119ae.png" /></p>
+<hr />
+<h1 id="bladder">Bladder</h1>
+<p><img src="/_resources/69cd07c583c3494c8b907c6bf28bdb10.png" /><br />
+<img src="/_resources/86bcfd8a30994758b51bc23418740a1d.png" /><br />
+<img src="/_resources/f43908d74cce4e24a60392e6f5197944.png" /><br />
+<img src="/_resources/2a5190a5d7d3435d93693dae5bfb7d95.png" /><br />
+<img src="/_resources/01fce21591ee499e8fab9d28ddf4d40c.png" /><br />
+<img src="/_resources/dcbd611fda7b48718a9f043a3d72d029.png" /><br />
+<img src="/_resources/3ecbebb37a7b43f8a5c7ba10b221babd.png" /><br />
+<img src="/_resources/133614db76c548de882a610d2075c5c6.png" /></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ovarian Torsion]]></title>
+            <guid>dae3b4892c214c92b2c93967026b935d</guid>
+            <pubDate>Tue, 04 Oct 2022 18:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/67eee9f1453e4fe5bbe789f8986c8a0f.png" /><br />
+<img src="/_resources/e53a973526974cf2b34aa14437d303c1.png" /><br />
+<img src="/_resources/3df5ce0b0f4f4659ad9d3aec9040807d.png" /></p>
+<hr />
+<p>Power doppler is not directional, just based on amplitude of flow and is perhaps more sensitive<br />
+<img src="/_resources/a0436068be344d47af239cb9947846b3.png" /></p>
+<hr />
+<p><img src="/_resources/188721fb918f447f9bda0cbdfcc04a85.png" /></p>
+<hr />
+<p><img src="/_resources/76f3cc25aa8e4b1e9e974ad7429e697a.png" /><br />
+This shows flow but the flow is short and staccato which means it's poor flow. This was a partial torsion in the OR</p>
+]]></content:encoded>
         </item>
     </channel>
 </rss>
